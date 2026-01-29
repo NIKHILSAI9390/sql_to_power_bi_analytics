@@ -1,10 +1,11 @@
-<img width="1186" height="686" alt="image" src="https://github.com/user-attachments/assets/b876cd8f-3255-463b-be67-0350d136f261" />
+
 # SQL Server to Power BI – Bike Sales & Profit Analytics
 
 ## 📌 Project Overview
 This project presents an **end-to-end business intelligence solution** built using **Microsoft SQL Server (SSMS)** and **Power BI** to analyze **sales, revenue, profit, and rider behavior** for a bike company (Toman Bike Shop).
 
 Raw Excel data from multiple years was imported into SQL Server, transformed using SQL queries, and visualized through an interactive Power BI dashboard.
+<img width="1186" height="686" alt="image" src="https://github.com/user-attachments/assets/b876cd8f-3255-463b-be67-0350d136f261" />
 
 ---
 
